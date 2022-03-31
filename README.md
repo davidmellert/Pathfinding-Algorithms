@@ -6,3 +6,5 @@ begehbar sind.
 
 Anschließend kann man auswählen welchen algorithmus man verwenden will und bekommt dann visualisiert, wie dieser
 Algorithmus funktioniert und seinen Weg vom Start zum Ziel findet.
+
+Zum ausprobieren einfach die Executable jar öffnen
